@@ -35,7 +35,6 @@ const scrapPemilu = new Promise(async (resolve) => {
                 '1': parseInt(owi.replace(/\./g, '').trim()),
                 '2': parseInt(owo.replace(/\./g, '').trim())
             };
-            document.querySelector('#highcharts-cr74obf-0 > svg > g.highcharts-data-labels.highcharts-series-0.highcharts-pie-series.highcharts-tracker > g.highcharts-label.highcharts-data-label.highcharts-data-label-color-0')
         })
         return {
             versi: versi.replace('Versi: ', ''),
