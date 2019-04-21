@@ -12,6 +12,8 @@ npm install
 ```bash
 npm run start
 ```
+#### Result
+<p align="center"><img width=80% src="./example.png"></p>
 
 The project use:
 - NodeJS
